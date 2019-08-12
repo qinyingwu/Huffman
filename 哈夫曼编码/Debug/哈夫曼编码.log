@@ -1,0 +1,35 @@
+﻿生成启动时间为 2018/11/26 15:12:45。
+     1>项目“E:\Coding\哈夫曼编码\哈夫曼编码\哈夫曼编码.vcxproj”在节点 2 上(build 个目标)。
+     1>PrepareForBuild:
+         正在创建目录“E:\Coding\哈夫曼编码\Debug\”。
+       InitializeBuildStatus:
+         正在创建“Debug\哈夫曼编码.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\哈夫曼编码.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\哈夫曼编码.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt "哈夫曼编码.cpp"
+         哈夫曼编码.cpp
+     1>e:\coding\哈夫曼编码\哈夫曼编码\哈夫曼编码.cpp(69): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+     1>e:\coding\哈夫曼编码\哈夫曼编码\哈夫曼编码.cpp(77): warning C4101: “f”: 未引用的局部变量
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\哈夫曼编码.exe.embed.manifest.res" "Debug\哈夫曼编码_manifest.rc" 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Coding\哈夫曼编码\Debug\哈夫曼编码.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\哈夫曼编码.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\Coding\哈夫曼编码\Debug\哈夫曼编码.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Coding\哈夫曼编码\Debug\哈夫曼编码.lib" /MACHINE:X86 "Debug\哈夫曼编码.exe.embed.manifest.res"
+         Debug\stdafx.obj
+         "Debug\哈夫曼编码.obj"
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\哈夫曼编码.exe.embed.manifest" /manifest "Debug\哈夫曼编码.exe.intermediate.manifest"
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\哈夫曼编码.exe.embed.manifest.res" "Debug\哈夫曼编码_manifest.rc" 
+       LinkEmbedManifest:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Coding\哈夫曼编码\Debug\哈夫曼编码.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\哈夫曼编码.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\Coding\哈夫曼编码\Debug\哈夫曼编码.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Coding\哈夫曼编码\Debug\哈夫曼编码.lib" /MACHINE:X86 "Debug\哈夫曼编码.exe.embed.manifest.res"
+         Debug\stdafx.obj
+         "Debug\哈夫曼编码.obj"
+         哈夫曼编码.vcxproj -> E:\Coding\哈夫曼编码\Debug\哈夫曼编码.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\哈夫曼编码.unsuccessfulbuild”。
+         正在对“Debug\哈夫曼编码.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\Coding\哈夫曼编码\哈夫曼编码\哈夫曼编码.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:06.15
